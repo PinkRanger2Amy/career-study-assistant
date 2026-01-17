@@ -91,3 +91,7 @@ The app will be available at `http://localhost:5173`
 - **Backend**: Flask, Flask-CORS
 - **Frontend**: React, Vite
 - **Styling**: CSS3 with animations
+
+<img width="664" height="604" alt="Screenshot 2026-01-17 at 6 24 37 PM" src="https://github.com/user-attachments/assets/48c8e88d-2c10-4e66-8a4c-daefc3c78320" />
+
+
